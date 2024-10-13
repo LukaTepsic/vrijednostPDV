@@ -1,0 +1,7 @@
+C:\Users\Tepob\source\repos\vrijednostPDV\vrijednostPDV\bin\Debug\vrijednostPDV.exe.config
+C:\Users\Tepob\source\repos\vrijednostPDV\vrijednostPDV\bin\Debug\vrijednostPDV.exe
+C:\Users\Tepob\source\repos\vrijednostPDV\vrijednostPDV\bin\Debug\vrijednostPDV.pdb
+C:\Users\Tepob\source\repos\vrijednostPDV\vrijednostPDV\obj\Debug\vrijednostPDV.csproj.AssemblyReference.cache
+C:\Users\Tepob\source\repos\vrijednostPDV\vrijednostPDV\obj\Debug\vrijednostPDV.csproj.CoreCompileInputs.cache
+C:\Users\Tepob\source\repos\vrijednostPDV\vrijednostPDV\obj\Debug\vrijednostPDV.exe
+C:\Users\Tepob\source\repos\vrijednostPDV\vrijednostPDV\obj\Debug\vrijednostPDV.pdb
